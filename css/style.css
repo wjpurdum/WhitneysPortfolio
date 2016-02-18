@@ -1,0 +1,60 @@
+span {
+	color: #8B008B;
+	font-family: Georgia, serif;
+	font-variant: small-caps;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+nav {
+	text-align: center;
+}
+
+}
+body {
+	background-color: #FFFFFF;
+
+}
+
+p {
+	font-size: 18px
+	font-weight: normal;
+}
+
+a {
+	color: #0000EE;
+}
+
+li {
+	font-size: 18px;
+	font-weight: normal;
+
+}
+
+header {
+	color:#008080;
+	font-size: 20px;
+}
+
+div {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+
+div header {
+	text-align: center;
+	left: 350;
+	right: 350;
+}
+
+version-one {
+	font-family: Georgia, serif;
+	font-color: #008080;
+}
+
+title {
+	color: #ffffff;
+}
